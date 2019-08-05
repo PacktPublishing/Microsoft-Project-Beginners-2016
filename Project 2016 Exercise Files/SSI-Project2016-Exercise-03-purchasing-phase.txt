@@ -1,0 +1,18 @@
+PURCHASING PHASE		7 days		2		40
+Tiling				5 days			
+Review available tiles		3 days				24
+Select and order tiles		2 days		23		25
+ Tiling delivery		0 days		24		38
+Flooring			5 days			
+Review available flooring	3 days				28
+Select and order flooring	2 days		27		29
+Flooring delivery		0 days		28		38
+Painting			4 days			
+Review paint options		2 days				32
+Select and order paint		2 days		31		33
+Paint delivery			0 days		32		38
+Equipment			7 days			
+Visit bathroom showrooms	2 days				36
+Select and order equipment	4 days		35		37
+Equipment delivery		1 day		36		38
+All materials on site		0 days		25,29,33,37	

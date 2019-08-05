@@ -1,0 +1,23 @@
+IMPLEMENTATION PHASE	13 days		21				64
+Preparation		5 days			
+Setup skip for waste	1 day						43
+Gut existing bathroom	2 days		42				45,44,46,48,52
+Prepare for tiling	2 days		43				55
+Prepare for flooring	2 days		43				57
+Prepare for painting	2 days		43				59
+Electrical		7 days			
+First fix electrics	2 days		43				49
+Second fix electrics	2 days		59,48				50,61SS+1 day
+Certification		1 day		49	
+Plumbing		6 days			
+First fix plumbing	2 days		43				53
+Second fix plumbing	2 days		52,59				61FS+1 day
+Tiling			2 days			
+Fit tiles		2 days		44				61
+Flooring		2 days			
+Fit flooring		2 days		45				61
+Painting		2 days			
+Paint			2 days		46				61,49,53
+Equipment		3 days			
+Fit equipment		3 days		59,49SS+1 day,53SS+1 day,55,57	62
+Equipment fitted	0 days		61	
